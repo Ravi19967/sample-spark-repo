@@ -1,0 +1,4 @@
+dynaconf
+pyarrow==6.0.1
+pyspark==3.0.0
+venv-pack
